@@ -22,7 +22,7 @@ Ensure you have Python installed, along with the following libraries:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/cinebert-sentiment-analysis.git
+    git clone https://github.com/iamFury2K/cinebert-sentiment-analysis.git
     cd cinebert-sentiment-analysis
     ```
 
